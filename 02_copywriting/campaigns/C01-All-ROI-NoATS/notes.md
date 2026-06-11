@@ -1,6 +1,7 @@
-# Campaign 01 Notes
+# C01-All-ROI-NoATS — Notes
 
 **Angle**: 25% formula — lead with ROI, make the math simple
+**Persona**: All (CEO/Founder gets intro-ask CTA, all other titles get direct CTA)
 **Segment**: No ATS, 100–500 employees, UAE/KSA
 **Started**: [date]
 

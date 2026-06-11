@@ -20,9 +20,13 @@ Pratik
 
 {{first_name}},
 
-One thing I've seen with teams at your size — when hiring volume goes up 30%, recruiter capacity doesn't. That's when processes break.
+One thing I've seen with teams at your size - when hiring volume goes up 30%, recruiter capacity doesn't. That's when processes break.
 
-Whitecarrot is built specifically for that moment. Happy to show you how it works in 15 mins.
+Alabbar Enterprises had 3 disconnected systems and 8 recruiters handling 350 hires a year. 
+
+After Whitecarrot, admin went from 42 hours a week to 6, and 3 recruiters now handle 850 hires.
+
+Happy to show you how it works in 15 mins.
 
 Pratik
 
@@ -32,11 +36,9 @@ Pratik
 
 **Subject**: re: hiring at {{company_name}}
 
-{{first_name}}, I'll stop following up after this.
+{{first_name}}, last one from me.
 
-If the timing's off or you're not the right person, no worries — just let me know and I'll leave you alone.
-
-If hiring is a priority this quarter, I'm happy to reconnect.
+If hiring isn't a priority right now, no worries - just say the word and I'll stop. If it is, happy to reconnect.
 
 Pratik
 

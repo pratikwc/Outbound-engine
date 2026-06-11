@@ -1,0 +1,30 @@
+# Environment and secrets
+.env
+config/instantly_api_key.txt
+config/*.key
+config/*.secret
+*.pem
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+*.egg-info/
+dist/
+build/
+
+# Temporary / generated files
+pending_sheet_updates.json
+*.tmp
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/

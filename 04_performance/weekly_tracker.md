@@ -2,9 +2,9 @@
 
 Updated every Friday. Pull numbers from Instantly dashboard.
 
-| Week | Campaign | Emails Sent | Open Rate | Reply Rate | Positive Replies | Meetings Booked | Status |
+| Week | Campaign ID | Emails Sent | Open Rate | Reply Rate | Positive Replies | Meetings Booked | Status |
 |---|---|---|---|---|---|---|---|
-| Week 1 | campaign_01 | — | — | — | — | — | Launching |
+| Week 1 | C01-All-ROI-NoATS | — | — | — | — | — | Launching |
 | | | | | | | | |
 
 ## Status Key

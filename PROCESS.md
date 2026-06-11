@@ -42,12 +42,12 @@ Start all 4 campaigns on the No ATS segment. Once you find a winning angle, adap
 
 4 campaigns, each testing a different strategy from the Instantly masterclass:
 
-| Campaign | Strategy | Persona | Segment |
+| Campaign ID | Strategy | Persona | Segment |
 |---|---|---|---|
-| Campaign 01 | S1 — 25% Formula (ROI + case study + CTA) | A — DM | No ATS |
-| Campaign 02 | S2 — One-Liner (curiosity trigger) | B — TA | No ATS |
-| Campaign 03 | S10 — Permission (ask before pitching) | C — HR | No ATS |
-| Campaign 04 | S13 — Free Audit (value-first) | A/B/C | No ATS |
+| C01-All-ROI-NoATS | 25% Formula (ROI + case study + CTA) | All personas — adapt CTA per title | No ATS |
+| C02-TA-OneLiner-NoATS | One-Liner (curiosity trigger) | B — TA Champion | No ATS |
+| C03-HR-Permission-NoATS | Permission (ask before pitching) | C — HR Champion | No ATS |
+| C04-All-Audit-NoATS | Free Audit (value-first) | A/B/C | No ATS |
 
 Each campaign has a 4-email sequence:
 - Email 1: Initial (Day 0)
@@ -147,7 +147,10 @@ When prospect is using a legacy ATS (Zoho, BambooHR, SAP, Taleo):
 | `01_icp_and_offer/icp_definition.md` | Company segments, filters, buying triggers |
 | `01_icp_and_offer/offer_summary.md` | What Whitecarrot does, what to say/not say |
 | `01_icp_and_offer/case_studies.md` | Social proof for email copy |
-| `02_copywriting/campaigns/` | One folder per campaign — email copy + sequence |
+| `02_copywriting/campaigns/C01-All-ROI-NoATS/` | Campaign 01 copy + sequence |
+| `02_copywriting/campaigns/C02-TA-OneLiner-NoATS/` | Campaign 02 copy + sequence |
+| `02_copywriting/campaigns/C03-HR-Permission-NoATS/` | Campaign 03 copy + sequence |
+| `02_copywriting/campaigns/C04-All-Audit-NoATS/` | Campaign 04 copy + sequence |
 | `02_copywriting/subject_line_bank.md` | All subject lines being tested |
 | `02_copywriting/spam_word_log.md` | Words that hurt deliverability |
 | `03_leads/apollo_export_log.md` | Every lead batch — date, count, validation status |

@@ -22,6 +22,7 @@ One row per export batch. Log every pull — no exceptions.
 | Date | Batch | People Researched | Method | Signals Found | Emails Written | Stale Leads | Notes |
 |---|---|---|---|---|---|---|---|
 | 2026-06-11 | Batch 01 | 3 (Amina Gaco / STUDIOI, Shahenda Elhomosany / Qoyod, Reda Raad / TBWA\Raad) | Apify: `harvestapi/linkedin-profile-scraper`, `harvestapi/linkedin-company`, `harvestapi/linkedin-profile-posts`, `harvestapi/linkedin-company-posts` | STUDIOI June 9 hiring-across-all-studios post; TBWA\Raad D&AD Yellow Pencil MENA win June 1 | 2 of 3 | 1 — Shahenda left Qoyod Feb 2026, now at Deloitte Cairo | CSV: `instantly_upload_batch_01_v2.csv`. Both emails use specific verifiable recent signals. |
+| 2026-06-11 | Batch 02 | 8 (Amina Gaco / STUDIOI, Reda Raad / TBWA\Raad, Hossam Seyam / Hesco, Sandro Sayegh / Blueprint ME, Roula Terrien / DAR, Seham Soliman / Kijamii, Cher Gaddi / Jetour UAE, Mohammed Alghofaili / sirar by stc) | Apify: `harvestapi/linkedin-profile-posts`, `harvestapi/linkedin-company-posts` (batched) | 7 strong signals; 1 partial (sirar — Hajj ops signal, no hiring post). See generated_emails_batch_02.md for full briefs. | 8 of 8 | 0 | CSV: `instantly_upload_batch_02.csv`. Review flags for Sandro/Roula (CEO intro-ask), Seham + Mohammed (case study category mismatch). |
 
 ---
 
