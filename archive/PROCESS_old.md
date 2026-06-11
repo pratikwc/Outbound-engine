@@ -1,7 +1,7 @@
 # Outbound Process — Whitecarrot x Instantly
 
 ## The Goal
-Book 4–8 meetings per month with HR Directors, CHROs, and TA leaders at 100–1,000 employee companies in UAE and KSA.
+Book 12-14 meetings per month with HR Directors, CHROs, and TA leaders at 100–1,000 employee companies in UAE and KSA.
 
 ---
 

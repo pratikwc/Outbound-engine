@@ -17,11 +17,11 @@ Whitecarrot covers the full cycle: plan headcount → post jobs on 1,000+ boards
 **For GCC companies specifically**, Whitecarrot also handles:
 - **Document verification** — collect and verify candidate documents in the platform, no back-and-forth over email
 - **Visa coordination** — built into the onboarding flow, not a separate process
-- **Saudization compliance** — tracks Saudi vs. non-Saudi hires against Nitaqat quotas so companies always know where they stand, without a separate spreadsheet
+- **Arabic Suport** — tracks Saudi vs. non-Saudi hires against Nitaqat quotas so companies always know where they stand, without a separate spreadsheet
 
 This is why we're not a generic ATS. Most US/global vendors don't touch these. For companies in KSA especially, this is the difference between a tool that fits and one that needs a workaround for every hire.
 
-We work with both knowledge worker companies (tech, finance, professional services) and front-line worker companies (hospitality, retail, construction, logistics). 90+ companies, 100s of recruiters across the region use us.
+We work with both knowledge worker companies (tech, finance, professional services) and front-line worker companies (hospitality, retail, construction, logistics). 100s of companies, 1000+ recruiters across the region use us.
 
 ---
 
@@ -29,7 +29,7 @@ We work with both knowledge worker companies (tech, finance, professional servic
 
 These are the actual numbers from the market - use them to frame pain in emails.
 
-- **Too many CVs, too little review**: 900+ applications per role on average. Less than 10% ever get read. Good candidates get missed because the team runs out of time.
+- **Too many CVs, too little review**: 900+ applications per high volume role on average. Less than 10% ever get read. Good candidates get missed because the team runs out of time.
 - **Hiring takes too long**: Average time to fill is 44 days. That means roles sit open for 6 weeks while the business waits.
 - **Backfills are chaos**: 90%+ of backfill hires miss the target hire date. Someone leaves, the business is understaffed, and the replacement process drags.
 - **Hiring is expensive**: Cost of hire is ~3x monthly salary when you factor in agency fees (8–15% of CTC) and recruiter time.
@@ -56,7 +56,7 @@ Outcomes we can point to - never fabricate or exaggerate these.
 **Beehive (FinTech, UAE - E& Company):**
 - Before: Using BambooHR, but still "very manual." CVs coming in through email, LinkedIn, Teams messages - no single place to see everything
 - After: One platform. Hiring managers now self-serve and fill junior roles without ever assigning a recruiter
-- The headline: "The most value add has been how fast hiring is now, and how easy."
+- The headline: "The most value add has been how fast hiring is now, and how easy, using AI."
 
 ---
 
@@ -70,6 +70,10 @@ Right now it's scattered - CVs on email, feedback on WhatsApp, job posts on five
 **2. They want AI to do the work recruiters shouldn't be doing.**
 Screening 900 CVs, writing JDs, scheduling 20 interviews a week, taking notes on every call - none of this requires a human. It just needs to get done. We automate it.
 
+**3**
+Digitization of their entire workflow from plannin to posting on several job board
+
+
 **What they walk away with:**
 - Faster hiring - candidates don't drop off because the process is slow
 - Smaller team can handle more volume - no need to hire another recruiter when hiring ramps up
@@ -82,20 +86,19 @@ Screening 900 CVs, writing JDs, scheduling 20 interviews a week, taking notes on
 
 **The rules (non-negotiable):**
 - Always pair company name + outcome. Name alone = nothing.
-- Volume stats (jobs published, hires logged, candidates reviewed) come from PostHog platform activity. They prove real usage - not ROI. Use for credibility, not cost/time claims.
+- Volume stats (jobs published, hires logged, candidates reviewed) have been added below from PostHog platform activity. They prove real usage - not ROI. Use for credibility, not cost/time claims.
 - Outcome interviews with real before/after numbers exist only for **Alabbar Enterprises** and **Beehive**. Use those figures freely. Do not attribute ROI numbers to any other company.
 - Match the industry. A FinTech example on a hospitality prospect is lazy.
 - One sentence max per email.
-- **HalaTaxi = our client. NOT Kareem.** Kareem is better known but is not our customer.
+- **HalaTaxi = our client. NOT Careem.** Careem is better known but is not our customer.
 
 ---
 
-### Hospitality
+### Hospitality, Retail, Wholesale
 
 | Company | Outcome line for email |
 |---|---|
-| **Alabbar Enterprises Enterprises (Alabbar Enterprises)** | "Alabbar Enterprises went from 8 recruiters doing 350 hires to 3 doing 850 - same team, 2.3× the output." *(Full case study - use numbers freely)* |
-| **Madi International** | "A hospitality group in the region filled 405 positions this year running 163 roles simultaneously - all on one platform." |
+| **Alabbar Enterprises (Alabbar Enterprises)** | "Alabbar Enterprises went from 8 recruiters doing 350 hires to 3 doing 850 - same team, 2.3× the output." *(Full case study - use numbers freely)* |
 | **Chedi Hospitality** | "Chedi Hospitality manages 100+ active roles on Whitecarrot with 291 candidates in pipeline at any time." |
 
 ---
@@ -107,6 +110,7 @@ Screening 900 CVs, writing JDs, scheduling 20 interviews a week, taking notes on
 |---|---|
 | **SARA Group** | "SARA Group filled 689 positions this year across 91 active roles - all running through one platform." |
 | **Bidfood Middle East** | "Bidfood Middle East completed 89 hires across 74 roles, reviewing 900+ candidates in the process." |
+| **Madi International** | "A hospitality group in the region filled 405 positions this year running 163 roles simultaneously - all on one platform." |
 | **WOLFI'S** | "WOLFI'S filled 66 positions from 42 roles - F&B hiring running end-to-end on Whitecarrot." |
 
 ---
