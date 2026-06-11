@@ -97,7 +97,7 @@ Collect:
 
 ## Industry Classification (do this after data collection)
 
-Once you have all data, classify the company using `knowledge/industry_map.md`.
+Once you have all data, classify the company using `0_0_knowledge/industry_map.md`.
 
 1. Start with the industry field from the sheet (Apollo/Sales Nav)
 2. Cross-reference with what kind of jobs they hire for (Step 1)
@@ -163,7 +163,7 @@ RECOMMENDED ANGLE: [Leave blank — the outreach agent picks this]
 
 ## Daily Target
 
-Process 10–40 people per session depending on signal availability. Output one research brief per person. The outreach agent then takes the full batch and writes the sequences.
+Process 40-50 people per session depending on signal availability. Output one research brief per person. The outreach agent then takes the full batch and writes the sequences.
 
 ---
 

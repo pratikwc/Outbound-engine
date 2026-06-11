@@ -3,16 +3,16 @@
 **Job:** Take a batch of research briefs, pick the right angle for each person, and write a full 4-email sequence. Output a CSV ready to upload to Instantly.
 
 This agent reads:
-- `knowledge/angles.md` — the angle definitions and selection rubric
-- `knowledge/whitecarrot.md` — company context, offer, verified stats
-- `knowledge/social_proof.md` — client bank by industry
+- `0_0_knowledge/angles.md` — the angle definitions and selection rubric
+- `0_0_knowledge/whitecarrot.md` — company context, offer, verified stats
+- `0_0_knowledge/social_proof.md` — client bank by industry
 - The research brief for each person (produced by the research agent)
 
 ---
 
 ## Step 1 — Angle Selection
 
-For each person, read their research brief and pick one angle from `knowledge/angles.md`.
+For each person, read their research brief and pick one angle from `0_0_knowledge/angles.md`.
 
 Use the selection rubric in angles.md (summarised below for quick reference):
 
@@ -33,7 +33,7 @@ Use the selection rubric in angles.md (summarised below for quick reference):
 
 ## Step 2 — Select Social Proof
 
-From `knowledge/social_proof.md`, pick the right client based on the industry bucket in the research brief.
+From `0_0_knowledge/social_proof.md`, pick the right client based on the industry bucket in the research brief.
 
 Rules:
 - Match the industry bucket exactly. No cross-industry proof.

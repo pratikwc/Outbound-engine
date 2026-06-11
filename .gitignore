@@ -1,8 +1,7 @@
 # Environment and secrets
 .env
-config/instantly_api_key.txt
-config/*.key
-config/*.secret
+config/
+archive/config/
 *.pem
 
 # Python

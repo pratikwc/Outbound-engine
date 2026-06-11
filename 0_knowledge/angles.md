@@ -40,7 +40,7 @@ Use this priority rubric — top match wins. Do not override without flagging in
 
 **Fallback rule:** If unsure, use A18. Do not use A2 as a fallback — A2 requires intentional brevity, not weak signal.
 
-**Social proof rule:** Every Email 1 must include at least one WC client name + outcome from `knowledge/social_proof.md`, matched to the prospect's industry bucket. No exceptions unless industry has zero match (use Alabbar Enterprises as universal fallback).
+**Social proof rule:** Every Email 1 must include at least one WC client name + outcome from `0_0_knowledge/social_proof.md`, matched to the prospect's industry bucket. No exceptions unless industry has zero match (use Alabbar Enterprises as universal fallback).
 
 ---
 
@@ -440,14 +440,14 @@ These rules apply regardless of which angle is selected:
 5. **If no industry match exists**, use Alabbar (2.3x hires with 60% fewer recruiters) — it is the strongest general stat and translates across industries.
 6. **HalaTaxi = our client. Not Careem.** Never say Careem.
 
-See `knowledge/social_proof.md` for the full client bank and quick-pick guide.
+See `0_0_knowledge/social_proof.md` for the full client bank and quick-pick guide.
 
 ---
 
 ## A/B Test Rules
 
 - Change only ONE variable per test: subject line OR opening line OR CTA. Never two at once.
-- Log every test in `performance/iteration_log.md` before results come in.
+- Log every test in `4_4_performance/iteration_log.md` before results come in.
 - Kill threshold: <2% reply after 50 sends.
 - Scale threshold: >5% reply sustained over 100+ sends.
 
