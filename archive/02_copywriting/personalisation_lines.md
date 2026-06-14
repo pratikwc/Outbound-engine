@@ -191,7 +191,7 @@ Rules:
 - "Wholesale distributors hire across warehousing, sales, and ops — often with no structured process connecting them."
 - "Distribution companies in the region run high volume but rarely have more than one or two people in HR."
 
-**Customer proof:** Daikan (62 hires across 107 roles)
+**Customer proof:** Daikan Hospitality Group (62 hires across 107 roles)
 
 ---
 

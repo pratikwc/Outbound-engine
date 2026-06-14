@@ -275,7 +275,7 @@ Digitization of their entire workflow from plannin to posting on several job boa
 
 | Company | Outcome line for email |
 |---|---|
-| **Daikan** | "Daikan filled 62 positions this year from 107 active roles - high-volume distribution hiring running on Whitecarrot." |
+| **Daikan Hospitality Group** | "Daikan Hospitality Group filled 62 positions this year from 107 active roles - high-volume distribution hiring running on Whitecarrot." |
 
 ---
 

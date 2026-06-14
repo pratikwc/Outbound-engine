@@ -3,13 +3,11 @@
 This file is the single source of truth for email angles used in WC outbound campaigns.
 It is read by the outreach agent before writing any email.
 
-Built from: Instantly.ai Copywriting Masterclass + June 09 alignment call + June 11 copywriting session (Mridul Bajoria).
+References: Instantly.ai Copywriting Masterclass + June 09 alignment call + June 11 copywriting session (Mridul Bajoria).
 
 ---
 
 ## Middle East Context (Read This First)
-
-These angles were adapted from a US-centric framework. Mridul's explicit guidance on the difference:
 
 > "We are not in US. People here are all about relationship building. They want you to put in the effort."
 
@@ -452,5 +450,3 @@ See `0_0_knowledge/social_proof.md` for the full client bank and quick-pick guid
 - Scale threshold: >5% reply sustained over 100+ sends.
 
 ---
-
-*Last updated: June 11, 2026. Source: Instantly.ai Copywriting Masterclass, June 09 outbound alignment call, June 11 copywriting session (Mridul Bajoria).*

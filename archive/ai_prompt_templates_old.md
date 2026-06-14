@@ -43,7 +43,7 @@ We are Whitecarrot — AI recruitment software used by companies in UAE and KSA 
 - Accounting / Professional Services: RSM UAE (30 hires, 19 roles)
 - Wellness and Fitness: Enhance Fitness (122 hires, 718 requisitions)
 - Retail: Chemist Warehouse UAE, The Luxury Closet
-- Wholesale: Daikan (62 hires, 107 roles)
+- Wholesale: Daikan Hospitality Group (62 hires, 107 roles)
 - IT Services: TPConnects (9 hires from 367 candidates)
 - Software Development: Bayzat (26 hires, 948 candidates)
 

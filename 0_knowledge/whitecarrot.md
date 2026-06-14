@@ -1,6 +1,6 @@
 # Whitecarrot — Company Context
 
-This file is the single source of truth about Whitecarrot: what we do, who we sell to, why people buy us, and the verified facts the agent can use. Do not repeat this information in any other file.
+This file is the single source of truth about Whitecarrot: what we do, who we sell to, why people buy us, and the verified facts the agent can use.
 
 ---
 
@@ -37,7 +37,7 @@ Run all campaigns on No ATS first. Adapt for Has ATS after finding a winning ang
 
 ---
 
-## Three Personas — Never Mix in the Same Campaign
+## Three Personas 
 
 | Persona | Titles | Lead with |
 |---|---|---|
@@ -114,7 +114,7 @@ Large US/global ATS vendors don't provide the level of hands-on support Whitecar
 
 **Hard-to-fill roles (specialist, senior):** Finding the right person requires going out on the internet. Whitecarrot's AI headhunting agent can target candidates from LinkedIn and run outreach sequences to build a shortlist. *(Note: headhunting agent is in development — experimental, on roadmap. Mention as upcoming capability, not live feature.)*
 
-**Rent-a-recruiter:** A service where clients can access a dedicated recruiter when needed. *(On roadmap, experimental — mention as upcoming capability only.)*
+**Rent-a-recruiter:** A service where clients can access a dedicated recruiter when needed. *(On roadmap, experimental — mention as upcoming capability only whenever required or you think its a best pain point.)*
 
 ---
 
@@ -157,4 +157,4 @@ Never fabricate numbers. Never extrapolate from one client to another.
 
 ---
 
-*Last updated: June 11, 2026. Content verified against Mridul/Pratik session June 11, 2026 and PostHog platform data.*
+*Last updated: June 14, 2026. Content verified against Mridul/Pratik session June 11, 2026 and PostHog platform data.*
